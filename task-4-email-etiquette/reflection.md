@@ -4,8 +4,6 @@
 **Name:** Roneet Sarode
 **Reg No:** 25MIM10145
 **Branch:** Integrated M.Tech – Artificial Intelligence
-**Year:** First Year
-**Expected Passout Year:** 2030
 **Institution:** VIT Bhopal University
 
 ---
@@ -134,7 +132,7 @@ task-4-email-etiquette/ folder.
 
 ---
 
-## 📖 Reflection Write-up (100–150 words)
+## 📖 Reflection 
 
 For Task 4, I drafted two professional emails and created a
 Social Media Do's and Don'ts checklist. One real situation
@@ -156,9 +154,6 @@ permanent and public, and that even students must practice
 responsible and professional digital communication at all
 times.
 
-*(Word count: ~140 words — rewrite in your own words for submission)*
-
----
 
 ## 💡 Key Learnings from Task 4
 
@@ -202,7 +197,6 @@ times.
 | `social-media-checklist.md` | Do's and Don'ts for social media |
 | `reflection-notes.md` | This reflection file |
 
----
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
 *Name: Roneet Sarode | Reg No: 25MIM10145*
