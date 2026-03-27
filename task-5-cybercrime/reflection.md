@@ -4,8 +4,6 @@
 **Name:** Roneet Sarode
 **Reg No:** 25MIM10145
 **Branch:** Integrated M.Tech – Artificial Intelligence
-**Year:** First Year
-**Expected Passout Year:** 2030
 **Institution:** VIT Bhopal University
 
 ---
@@ -92,7 +90,7 @@ task-5-cybercrime/ folder.
 
 ---
 
-## ✍️ Reflection Write-up (100–150 words)
+## ✍️ Reflection Write-up 
 
 While researching UPI fraud for this task, the thing that
 surprised me the most was how simple and psychological these
@@ -111,9 +109,6 @@ also share the key rule "You never need a PIN to receive money"
 with my family and batchmates, because I realized that most
 people simply do not know this basic but life-saving fact.
 
-*(Word count: ~145 words — rewrite in your own words for submission)*
-
----
 
 ## 💡 Key Learnings from Task 5
 
@@ -152,7 +147,7 @@ people simply do not know this basic but life-saving fact.
 - [ ] Written 100-150 word reflection in project report
 - [ ] This reflection file uploaded to task-5-cybercrime/
 
----
+
 
 ## 📁 Files in task-5-cybercrime/ Folder
 
@@ -162,7 +157,6 @@ people simply do not know this basic but life-saving fact.
 | `prevention-checklist.md` | Stay Safe Online — 12 prevention tips |
 | `reflection-notes.md` | This reflection file |
 
----
 
 ## 🚨 Emergency Cybercrime Contacts
 
@@ -173,7 +167,6 @@ people simply do not know this basic but life-saving fact.
 | 🏛️ Local Police | File FIR under IT Act 2000 |
 | 🏦 Bank Helpline | Call your bank to freeze account immediately |
 
----
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
 *Name: Roneet Sarode | Reg No: 25MIM10145*
