@@ -7,7 +7,7 @@ I created my GitHub account using my college email address. I then created a spe
 
 Name = Roneet sarode
 My branch (Integrated M Tech AI Engineering)
-My current year (First Year B.Tech)
+My current year (First Year M.Tech)
 My institution (VIT Bhopal University)
 One sentence about what I hope to learn
 
