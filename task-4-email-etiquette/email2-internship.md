@@ -4,10 +4,8 @@
 **Name:** Roneet Sarode
 **Reg No:** 25MIM10145
 **Branch:** Integrated M.Tech – Artificial Intelligence
-**Year:** First Year
 **Institution:** VIT Bhopal University
 
----
 
 ## 📧 Email Draft
 
