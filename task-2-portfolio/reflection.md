@@ -4,8 +4,6 @@
 **Name:** Roneet Sarode
 **Reg No:** 25MIM10145
 **Branch:** Integrated M.Tech – Artificial Intelligence
-**Year:** First Year
-**Expected Passout Year:** 2030
 **Institution:** VIT Bhopal University
 
 ---
@@ -40,7 +38,6 @@ candidate's GitHub profile during hiring and internship selection.
   - Registration Number: 25MIM10145
   - Branch: Integrated M.Tech – Artificial Intelligence
   - Institution: VIT Bhopal University
-  - Year: First Year (Passout: 2030)
   - Learning Goal: I hope to learn Machine Learning, Deep
     Learning, and build real-world AI projects during my
     five-year programme at VIT Bhopal.
@@ -119,7 +116,7 @@ task-2-portfolio/ folder.
 
 ---
 
-## ✍️ Overall Reflection (150–200 words)
+# ✍️ Overall Reflection
 
 For Task 2, I set up my professional digital profiles on three
 platforms — GitHub, LinkedIn, and Kaggle. Before this task, I
@@ -144,21 +141,6 @@ five-year window to build a strong, impressive digital portfolio
 before my passout in 2030. This task was not just an assignment
 — it was the first real step toward my professional future.
 
-*(Word count: ~185 words — rewrite in your own words for submission)*
-
----
-
-## 🗓️ My 5-Year Platform Growth Plan
-
-| Year | GitHub Plan | LinkedIn Plan | Kaggle Plan |
-|------|------------|---------------|-------------|
-| Year 1 (2025-26) | Profile README, basic Python programs | Education section setup, connect with seniors | Complete Python & Intro to ML courses |
-| Year 2 (2026-27) | Upload DSA and mini-projects | Add skills and certifications | Practice on beginner datasets |
-| Year 3 (2027-28) | Upload AI/ML projects and internship work | Apply for internships, grow network | Participate in beginner competitions |
-| Year 4 (2028-29) | Major projects, research work | Showcase internship experience | Earn Kaggle medals and rankings |
-| Year 5 (2029-30) | Complete AI portfolio for placements | Full professional profile ready | Use Kaggle rank as placement credential |
-
----
 
 ## 📁 Files Uploaded in task-2-portfolio/ Folder
 
@@ -167,22 +149,8 @@ before my passout in 2030. This task was not just an assignment
 | `github-profile.png` | Screenshot of GitHub profile with README |
 | `linkedin-profile.png` | Screenshot of LinkedIn Education section |
 | `kaggle-profile.png` | Screenshot of Kaggle profile page |
-| `reflection-notes.md` | This reflection file |
+| `reflection.md` | This reflection file |
 
----
-
-## ✅ Task 2 Checklist
-
-- [ ] Created GitHub account and profile README
-- [ ] Added name, branch, year, and learning goal on GitHub
-- [ ] Created LinkedIn account and filled Education section
-- [ ] Created Kaggle account and set up profile
-- [ ] Took screenshots of all 3 platforms
-- [ ] Uploaded all screenshots to task-2-portfolio/ folder
-- [ ] Uploaded this reflection file to task-2-portfolio/ folder
-- [ ] Written 150-200 word report write-up in project report
-
----
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
 *Name: Roneet Sarode | Reg No: 25MIM10145*
