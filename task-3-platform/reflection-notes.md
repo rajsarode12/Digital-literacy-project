@@ -4,52 +4,10 @@
 **Name:** Roneet Sarode
 **Reg No:** 25MIM10145
 **Branch:** Integrated M.Tech – Artificial Intelligence
-**Year:** First Year
-**Expected Passout Year:** 2030
 **Institution:** VIT Bhopal University
 
----
 
-## Part A – Coding Practice Platform
-
-### Platform Used: HackerRank
-
-**What is HackerRank?**
-HackerRank is an online platform where students and developers can
-practice coding problems, take skill tests, and earn certificates.
-It covers topics like Python, Java, C++, Data Structures,
-Algorithms, SQL, Machine Learning, and Artificial Intelligence.
-Companies like Google, Amazon, Microsoft, and top AI firms use
-HackerRank to evaluate candidates during their hiring process.
-
-**What I Did:**
-I created an account on HackerRank using my college email address.
-Since I am pursuing Artificial Intelligence, I navigated to the
-Python domain — which is the primary language used in AI and
-Machine Learning. I completed the beginner-level challenge called
-"Solve Me First" which required writing a simple function. After
-submitting my solution, it was accepted successfully.
-
-**Challenge Completed:**
-- Challenge Name  : Solve Me First
-- Domain          : Python / Problem Solving
-- Difficulty Level: Easy (Beginner)
-- Result          : Passed Successfully
-
-**What I Learned:**
-This was my first experience with an online coding judge. I learned
-how to read a problem statement, write a solution, and submit it
-for automatic evaluation. As an AI student, I understand that
-strong Python skills are essential for implementing machine
-learning models, neural networks, and data pipelines. HackerRank
-will help me build that foundation step by step.
-
-**Screenshot:** Uploaded as `hackerrank-challenge.png` in
-task-3-platforms/ folder.
-
----
-
-## Part B – Google Workspace Collaboration
+## Part A – Google Workspace Collaboration
 
 ### Tool Used: Google Forms
 
@@ -71,7 +29,7 @@ The form contains exactly 5 questions as required by the task.
 
 ### My Google Form – Question Details
 
-**Form Title:** Digital Literacy Awareness Quiz
+**Form Title:** Digital Literacy Quiz
 **Purpose:** To test basic digital literacy awareness among
 Integrated M.Tech AI first-year students at VIT Bhopal University
 
@@ -101,15 +59,50 @@ Integrated M.Tech AI first-year students at VIT Bhopal University
 - C) Phishing someone to steal their bank details ✅
 - D) Uploading AI projects to GitHub
 
-**Google Form Link:** [Paste your Google Form link here]
-**Google Sheet (Response View):** [Paste your linked Sheet link here]
+**Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdH2pEho-il0mL5CZlI5bA9WtCtoxbjtL3K6GVwmUgn6bcbuw/viewform
+**Google Sheet (Response View):** https://docs.google.com/forms/d/1k54U5xQDLpWBiJVI6dvnLn5I-wxxZQSz418MBFHCOOo/edit#responses
 
 **Screenshot:** Uploaded as `google-form.png` and
-`google-sheet-response.png` in task-3-platforms/ folder.
+`google-response.png` in task-3-platforms/ folder.
 
----
 
-## Overall Reflection (150–200 words)
+
+## Part A – Coding Practice Platform
+
+### Platform Used: HackerRank
+
+**What is HackerRank?**
+HackerRank is an online platform where students and developers can
+practice coding problems, take skill tests, and earn certificates.
+It covers topics like Python, Java, C++, Data Structures,
+Algorithms, SQL, Machine Learning, and Artificial Intelligence.
+Companies like Google, Amazon, Microsoft, and top AI firms use
+HackerRank to evaluate candidates during their hiring process.
+
+**What I Did:**
+I created an account on HackerRank using my college email address.
+Since I am pursuing Artificial Intelligence, I completed the beginner-level challenge called
+"Solve Me First" which required writing a simple function. After
+submitting my solution, it was accepted successfully.
+
+**Challenge Completed:**
+- Challenge Name  : Solve Me First
+- Domain          : Mathematics/ Problem Solving
+- Difficulty Level: Easy (Beginner)
+- Result          : Passed Successfully
+
+**What I Learned:**
+This was my first experience with an online coding judge. I learned
+how to read a problem statement, write a solution, and submit it
+for automatic evaluation. As an AI student, I understand that
+strong Python skills are essential for implementing machine
+learning models, neural networks, and data pipelines. HackerRank
+will help me build that foundation step by step.
+
+**Screenshot:** Uploaded as `hackerrank-challenge.png` in
+task-3-platforms/ folder.
+
+## Overall Reflection 
 
 For Task 3, I, Roneet Sarode (Reg No: 25MIM10145), explored two
 important categories of digital tools — a coding practice platform
@@ -136,19 +129,6 @@ goals. I plan to use HackerRank weekly for coding practice and
 Google Workspace tools for collaboration throughout my five-year
 Integrated M.Tech programme, graduating in 2030.
 
----
-
-## My 5-Year Plan Using These Platforms
-
-| Year | HackerRank Goals | Google Workspace Goals |
-|------|-----------------|----------------------|
-| Year 1 (2025-26) | Complete Python basics, beginner challenges | Learn Forms, Docs, Sheets for college work |
-| Year 2 (2026-27) | Practice Data Structures & Algorithms | Use Sheets for data collection in projects |
-| Year 3 (2027-28) | Attempt AI/ML coding challenges | Collaborate on group research using Drive |
-| Year 4 (2028-29) | Crack company coding rounds (internships) | Use Slides for project presentations |
-| Year 5 (2029-30) | Maintain Gold/5-star rating for placements | Use all tools professionally for final year project |
-
----
 
 ## Files Uploaded in task-3-platforms/ Folder
 
