@@ -4,8 +4,6 @@
 **Name:** Roneet Sarode
 **Reg No:** 25MIM10145
 **Branch:** Integrated M.Tech – Artificial Intelligence
-**Year:** First Year
-**Expected Passout Year:** 2030
 **Institution:** VIT Bhopal University
 
 ---
@@ -19,7 +17,6 @@ into sharing their UPI PINs, OTPs, or clicking on fake payment
 links, resulting in unauthorized money being stolen directly from
 their bank accounts.
 
----
 
 ## 📖 Case Study – A Realistic Scenario
 
@@ -80,7 +77,6 @@ identity and a temporary SIM card.
 - The fraudster faces legal action under the IT Act 2000 and IPC Section 420
   if caught, but many such criminals operate anonymously and are rarely caught
 
----
 
 ## 📌 Source / Reference
 
@@ -90,7 +86,6 @@ patterns reported by the National Cyber Crime Portal
 awareness campaigns. Similar real incidents have been widely
 reported across Indian newspapers and cybercrime databases.
 
----
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
 *Name: Roneet Sarode | Reg No: 25MIM10145*
