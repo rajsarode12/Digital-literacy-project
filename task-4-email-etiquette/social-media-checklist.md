@@ -51,10 +51,6 @@ Report harassment            ↔  Engage in online fights
 Enable 2FA on accounts       ↔  Click suspicious links
 ```
 
----
-
-## 📖 Reflection – Task 4 Report Write-up (100–150 words)
-
 For Task 4, I drafted two professional emails and created a Social
 Media Do's and Don'ts checklist. One situation where poor digital
 communication caused a real problem is the case of several college
@@ -73,9 +69,6 @@ incident taught me that anything posted on the internet is
 permanent and public, and that professional digital communication
 must be practiced even as a student.
 
-*(Word count: ~140 words — rewrite in your own words for submission)*
-
----
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
 *Name: Roneet Sarode | Reg No: 25MIM10145*
