@@ -4,19 +4,14 @@
 **Name:** Roneet Sarode
 **Reg No:** 25MIM10145
 **Branch:** Integrated M.Tech – Artificial Intelligence
-**Year:** First Year
-**Expected Passout Year:** 2030
 **Institution:** VIT Bhopal University
 
----
 
 ## 🛡️ Stay Safe Online – Prevention Checklist
 
 A practical guide for college students in India to stay safe
 from cybercrimes including UPI fraud, phishing, identity theft,
-cyberbullying, and ransomware.
-
----
+cyberbullying, and ransomware
 
 ### ✅ General Online Safety Tips
 
@@ -67,7 +62,6 @@ report it IMMEDIATELY through these official channels:
 > The faster you report, the higher the chance of recovering
 > lost money. Call **1930** immediately in case of financial fraud.
 
----
 
 ## 🔑 Quick Reference — Top 5 Rules to Never Forget
 
@@ -79,7 +73,6 @@ RULE 4: Report cybercrime immediately at 1930 or cybercrime.gov.in
 RULE 5: If it sounds too good to be true — it IS a scam.
 ```
 
----
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
 *Name: Roneet Sarode | Reg No: 25MIM10145*
