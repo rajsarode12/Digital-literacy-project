@@ -51,8 +51,7 @@ throughout my college journey.
 
 **Screenshot:** Uploaded as `github-profile.png` in
 task-2-portfolio/ folder.
-
----
+Github profile link = https://github.com/rajsarode12
 
 ### Platform 2 — LinkedIn
 
@@ -82,8 +81,7 @@ when they come.
 
 **Screenshot:** Uploaded as `linkedin-profile.png` in
 task-2-portfolio/ folder.
-
----
+Linkedin profile link = https://www.linkedin.com/in/roneet-sarode-286460380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ### Platform 3 — Kaggle
 
@@ -113,8 +111,7 @@ years to:
 
 **Screenshot:** Uploaded as `kaggle-profile.png` in
 task-2-portfolio/ folder.
-
----
+kaggle profile link = https://www.kaggle.com/roneetsarode
 
 # ✍️ Overall Reflection
 
