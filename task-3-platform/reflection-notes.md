@@ -43,25 +43,25 @@ Integrated M.Tech AI first-year students at VIT Bhopal University
 
 **Multiple Choice Options for Q1:**
 
-A. Ability to use digital tools
-B. Playing Game
-C. Watching Movie
+| A. Ability to use digital tools |
+| B. Playing Game |
+| C. Watching Movie |
 
 **Multiple Choice Options for Q2:**
-Short answer
+| Short answer |
 
 **Multiple Choice Options for Q3:**
-A. HackerRank
-B. Instagram
-C. WhatsApp
+| A. HackerRank |
+| B. Instagram |
+| C. WhatsApp |
 
 **Multiple Choice Options for Q4:**
-A. Sharing Passwords
-B. Learning New Tools
-C. Reading Article
+| A. Sharing Passwords |
+| B. Learning New Tools |
+| C. Reading Article |
 
 **Multiple Choice Options for Q5:**
-Short Answer
+| Short Answer |
 
 **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdH2pEho-il0mL5CZlI5bA9WtCtoxbjtL3K6GVwmUgn6bcbuw/viewform
 **Google Sheet (Response View):** https://docs.google.com/forms/d/1k54U5xQDLpWBiJVI6dvnLn5I-wxxZQSz418MBFHCOOo/edit#responses
