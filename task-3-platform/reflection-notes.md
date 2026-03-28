@@ -35,29 +35,33 @@ Integrated M.Tech AI first-year students at VIT Bhopal University
 
 | No. | Question | Type |
 |-----|----------|------|
-| 1 | What does the term "Digital Literacy" mean to you? | Short Answer |
-| 2 | Which of the following is a safe internet practice? | Multiple Choice |
-| 3 | What is GitHub primarily used for? | Multiple Choice |
-| 4 | Which of the following is an example of cybercrime? | Multiple Choice |
-| 5 | Name one platform useful for building a professional profile as an AI student. | Short Answer |
+| 1 | What is "Digital Literacy" ? | Multiple choice |
+| 2 |   What is a strong password?  | Short Answer |
+| 3 |  Which platform is used for coding practice?  | Multiple Choice |
+| 4 | What should you avoid online? | Multiple Choice |
+| 5 |  Name one digital tool you use | Short Answer |
+
+**Multiple Choice Options for Q1:**
+
+A. Ability to use digital tools
+B. Playing Game
+C. Watching Movie
 
 **Multiple Choice Options for Q2:**
-- A) Sharing your password with friends
-- B) Using the same password for all accounts
-- C) Enabling two-factor authentication ✅
-- D) Clicking on unknown links in emails
+Short answer
 
 **Multiple Choice Options for Q3:**
-- A) Watching movies and web series
-- B) Storing and sharing code projects ✅
-- C) Sending professional emails
-- D) Creating design infographics
+A. HackerRank
+B. Instagram
+C. WhatsApp
 
 **Multiple Choice Options for Q4:**
-- A) Using Google Forms to conduct a quiz
-- B) Creating a LinkedIn profile for networking
-- C) Phishing someone to steal their bank details ✅
-- D) Uploading AI projects to GitHub
+A. Sharing Passwords
+B. Learning New Tools
+C. Reading Article
+
+**Multiple Choice Options for Q5:**
+Short Answer
 
 **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdH2pEho-il0mL5CZlI5bA9WtCtoxbjtL3K6GVwmUgn6bcbuw/viewform
 **Google Sheet (Response View):** https://docs.google.com/forms/d/1k54U5xQDLpWBiJVI6dvnLn5I-wxxZQSz418MBFHCOOo/edit#responses
