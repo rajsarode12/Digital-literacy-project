@@ -282,7 +282,7 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Data Scie
 - 🐙 GitHub: [github.com/rajsarode12](https://github.com/rajsarode12)
 - 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/roneet-sarode-286460380)
 - 📊 Kaggle: [kaggle.com/roneetsarode](https://www.kaggle.com/roneetsarode)
-- ✉️ Email: roneet.sarode2025@vitbhopal.ac.in
+- ✉️ Email: roneet.sarode25mim10145@vitbhopal.ac.in
 
 ---
 
