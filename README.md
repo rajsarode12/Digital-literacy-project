@@ -60,25 +60,25 @@ digital-literacy-project/
 │   ├── github-profile.png             ← GitHub profile screenshot
 │   ├── linkedin-profile.png           ← LinkedIn profile screenshot
 │   ├── kaggle-profile.png             ← Kaggle profile screenshot
-│   └── reflection-notes.md            ← Task 2 reflection file
+│   └── reflection.md            ← Task 2 reflection file
 │
 ├── task-3-platforms/
 │   ├── hackerrank-challenge.png       ← HackerRank challenge screenshot
 │   ├── hackerrank-badge.png           ← HackerRank badge screenshot
 │   ├── google-form.png                ← Google Form screenshot
 │   ├── google-sheet-response.png      ← Google Sheet response screenshot
-│   └── reflection-notes.md            ← Task 3 reflection file
+│   └── reflection.md            ← Task 3 reflection file
 │
 ├── task-4-email-etiquette/
 │   ├── email1-professor.md            ← Email to professor
 │   ├── email2-internship.md           ← Email to internship coordinator
 │   ├── social-media-checklist.md      ← Social media Do's and Don'ts
-│   └── reflection-notes.md            ← Task 4 reflection file
+│   └── reflection.md            ← Task 4 reflection file
 │
 └── task-5-cybercrime/
     ├── casestudy.md                   ← UPI fraud case study
     ├── prevention-checklist.md        ← Stay Safe Online checklist
-    └── reflection-notes.md            ← Task 5 reflection file
+    └── reflection.md            ← Task 5 reflection file
 ```
 
 ---
