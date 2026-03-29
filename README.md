@@ -20,7 +20,7 @@
 | 📅 **Year** | First Year (Passout: 2030) |
 | 🏫 **Institution** | VIT Bhopal University |
 | 📘 **Course Code** | CSE0001 – Digital Literacy |
-| ✉️ **Email** | roneet.sarode2025@vitbhopal.ac.in |
+| ✉️ **Email** | roneet.sarode25mim10145@vitbhopal.ac.in |
 | ⭐ **Credits** | 1 Credit – Pass / Fail (Non-CGPA) |
 
 ---
@@ -293,4 +293,4 @@ All written reflections, email drafts, case studies, and checklists in this repo
 ---
 
 *📘 Submitted as part of CSE0001 – Digital Literacy | VIT Bhopal University*
-*👨‍🎓 Roneet Sarode | 25MIM10145 | Integrated M.Tech – AI | Passout: 2030*
+*👨‍🎓 Roneet Sarode | 25MIM10145 | Integrated M.Tech – AI | 
